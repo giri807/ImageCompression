@@ -48,7 +48,6 @@
     <Compile Include="commonutils\ImageType.cs" />
     <Compile Include="service\CompressImageIMPL.cs" />
     <Compile Include="service\ICompressImage.cs" />
-    <Compile Include="interfaces\IMessageLogger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="service\unit\CompressImagewithScaleFactorUnit.cs" />
   </ItemGroup>
